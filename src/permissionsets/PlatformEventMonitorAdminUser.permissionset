@@ -681,8 +681,4 @@
         <enabled>false</enabled>
         <name>ViewSetup</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>WorkCalibrationUser</name>
-    </userPermissions>
 </PermissionSet>
