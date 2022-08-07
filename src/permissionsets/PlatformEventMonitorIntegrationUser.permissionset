@@ -125,8 +125,4 @@
         <enabled>false</enabled>
         <name>ViewSetup</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>WorkDotComUserPerm</name>
-    </userPermissions>
 </PermissionSet>
