@@ -135,10 +135,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ChatterForSharePoint</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ChatterInternalUser</name>
     </userPermissions>
     <userPermissions>
